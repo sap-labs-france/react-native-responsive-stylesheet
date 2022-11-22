@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/RangerMauve/react-native-responsive-stylesheet#readme",
   "peerDependencies": {
-    "react-native": "^0.42.0"
+    "react-native": "*"
   },
   "devDependencies": {
     "eslint": "^3.18.0",
